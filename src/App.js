@@ -7,6 +7,7 @@ import {
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import "./App.css";
+import { getCLS, getFID, getLCP } from 'web-vitals';
 
 function App() {
   return (
