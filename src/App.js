@@ -15,7 +15,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="logo-container" alt="">
-          
+          <img src="university.png"></img>
           <h1 className="university-name" style={{ textAlign: "center", margin: 10 }}>
             جامعة العلوم والتكنولوجيا
           </h1>
